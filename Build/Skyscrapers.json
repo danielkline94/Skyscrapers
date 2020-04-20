@@ -1,0 +1,13 @@
+{
+"companyName": "Julia Robinson Mathematics Festival",
+"productName": "JRMF",
+"dataUrl": "Skyscrapers.data.unityweb",
+"asmCodeUrl": "Skyscrapers.asm.code.unityweb",
+"asmMemoryUrl": "Skyscrapers.asm.memory.unityweb",
+"asmFrameworkUrl": "Skyscrapers.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#BFBFBF"
+}
